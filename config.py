@@ -1,0 +1,2 @@
+DATABASE = 'videogames.db'
+TOKEN = ''
